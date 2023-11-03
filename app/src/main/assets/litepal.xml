@@ -1,0 +1,10 @@
+<litepal>
+    <!--数据库名称 -->
+    <dbname value="cute_browse" />
+    <!--数据库版本,如果升级需要手动添加 -->
+    <version value="1" />
+    <list>
+        <mapping class="com.ddkx.prettywalk.bean.RecordBean"/>
+    </list>
+
+</litepal>
